@@ -11,7 +11,8 @@ It was initially designed to download files from a large amount of Jira issues f
 ## Usage
 1. Open the script in your python ide of choice and fill out the following global variables:
 - user
-	The email used for your Jira account.
+
+The email used for your Jira account.
 	
 - apikey
 	Your Jira API token. Follow this guide to create an API token: https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/
